@@ -1,4 +1,8 @@
-
+@media only screen and (max-width: 600px) {
+    .container {
+        padding: 10px;
+    }
+}
     body {
     background-image: url('https://th.bing.com/th/id/OIP.fyZMY100ZoNwylp0MrNeygAAAA?rs=1&pid=ImgDetMain'); /* Add background image for body */
     background-size: cover;
