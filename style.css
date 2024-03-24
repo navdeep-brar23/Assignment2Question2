@@ -1,9 +1,9 @@
 @media only screen and (max-width: 600px) {
     .container {
         padding: 10px;
-	    .side-image {
-        display: none; /* Hide side images on small screens */
     }
+	  .side-image {
+        display: none; /* Hide side images on small screens */
     }
 }
 body {
